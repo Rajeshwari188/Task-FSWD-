@@ -1,5 +1,6 @@
-import Quiz from "./Fullstackproject/Sample/Quiz";
+import Poll from "./Fullstackproject/Sample/Poll";
 
 export default function App() {
-  return <Quiz />;
+  return <Poll />;
 }
+
